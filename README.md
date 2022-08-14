@@ -10,6 +10,6 @@
 
 ### Achievement badges
 
-<a href="https://www.credly.com/badges/3b5abd57-e653-42e9-a3ec-127b5b37ab91/public_url">
+<a href="https://www.credly.com/badges/3b5abd57-e653-42e9-a3ec-127b5b37ab91/public_url" target="_blank">
 <img alt="Cisco's Introduction to Cybersecurity badge" src="assets/introduction-to-cybersecurity.png" />
 </a>
